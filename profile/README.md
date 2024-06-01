@@ -1,4 +1,3 @@
-<div align="center">
-  <img src="https://github.com/ryu-engine/.github/blob/develop/ryu-logo.png" width="256" alt="Ryu logo" />
-  <h1>game engine</h1>
-</div>
+<h2>If you want to use it for production, <i>abadone your hope</i> to release your game.</h2>
+
+This engine trying to be ideal, so it's impossible to release it ever.
